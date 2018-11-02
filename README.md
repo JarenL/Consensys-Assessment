@@ -42,7 +42,7 @@ These instructions will get you a copy of the project up and running on your loc
 * [Node](https://nodejs.org/en/)
 * [Material-UI](https://material-ui.com/)
 * [Jest](https://jestjs.io/en/)
-8 [Enzyme](https://github.com/airbnb/enzyme) 
+* [Enzyme](https://github.com/airbnb/enzyme) 
 
 ## Authors
 
