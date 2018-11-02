@@ -1,11 +1,11 @@
-Create a frontend app that consumes data from a JSON-based API and then displays that data to the end-user. Data is from a JSON text file. 
+Create a web app that consumes data from a JSON-based API and then displays that data to the end-user. Data is from a JSON text file. 
 
 - Queries dummy data from NPM server and displays this in a React App with checkboxes to filter data list.
 - Screenshot - https://imgur.com/z9NRQzG
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the ./client directory, you can run:
 
 ### `npm start`
 
