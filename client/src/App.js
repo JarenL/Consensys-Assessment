@@ -103,7 +103,7 @@ class App extends Component {
                 label="Women"
               />
             </FormGroup>
-            <DataList data={this.state.data} checkedA={this.state.checkedA} checkedB={this.state.checkedB}/>
+            <DataList data={this.state.data} checkedA={this.state.checkedA} checkedB={this.state.checkedB} />
           </main>
         </div>
       )
