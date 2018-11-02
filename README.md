@@ -9,14 +9,13 @@ In the ./client directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
+- Runs the app in the development mode.<br>
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Also raw server query can be viewed at http://localhost:5000/consensys
 
 ### `npm test`
 
-First navigate to the ./client directory. Uses Jest and Enzyme for testing. Launches the test runner in the interactive watch mode.<br>
+- First navigate to the ./client directory. Uses Jest and Enzyme for testing. Launches the test runner in the interactive watch mode.<br>
 
 ## How to Run
 
