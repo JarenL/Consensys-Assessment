@@ -1,0 +1,23 @@
+{
+  "name": "consensys-assessment",
+  "version": "1.0.0",
+  "description": "for consensys role",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarenL/Consensys-Assessment.git"
+  },
+  "author": "Jaren Lynch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarenL/Consensys-Assessment/issues"
+  },
+  "homepage": "https://github.com/JarenL/Consensys-Assessment#readme",
+  "dependencies": {
+    "eslint-config-react-app": "^3.0.5",
+    "express": "^4.16.4"
+  }
+}
